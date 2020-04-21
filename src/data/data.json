@@ -1,0 +1,84 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Raja",
+                "role" : "Multi skill Trainer",
+                "email" : "kondapalliraja@apssdc.in",
+                "mobile": "+91 8938475362"
+            },
+            "education":[
+                {
+                    "degree":"Graduation",
+                    "institution": "B.TECH – Electronics and Communication Engineering FROM Chaitanya Bharathi Institute of Technology College In 2016apa"
+                },
+                {
+                    "degree":"Intermediate",
+                    "institution":"12th – MPC from Sri Venkateswara Junior College IN 2012"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "SSC From Sri Maharshi High School Board Of SSC IN 2010"
+                }
+            ],
+            "skill":[
+                {
+                    "t":"Web Technologies",
+                    "l":"HTML5"
+                },
+                {
+                    "t":"Programming Languages",
+                    "l":"C"
+                },
+                {
+                    "t":"Operating Systems",
+                    "l":"windows"
+                },
+                {
+                    "t":"Frameworks",
+                    "l":"Bootstrap"
+                }
+            ]
+        },
+        {
+            "basicInformation": {
+                "name" : "G.K.Raja",
+                "role" : "Multi skill Trainer",
+                "email" : "gkraja@apssdc.in",
+                "mobile": "+91 89478473333"
+            },
+            "education":[
+                {
+                    "degree":"B-Tech (ECE)",
+                    "institution": "VBIT Proddatur, Kadapa"
+                },
+                {
+                    "degree":"Diploma(Computer engineering)",
+                    "institution":"VBIT Proddatur, Kadapa"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "vagdevi high school"
+                }
+            ],
+            "skill":[
+                {
+                    "t":"Web Technologies",
+                    "l":"HTML5"
+                },
+                {
+                    "t":"Programming Languages",
+                    "l":"C"
+                },
+                {
+                    "t":"Operating Systems",
+                    "l":"windows"
+                },
+                {
+                    "t":"Frameworks",
+                    "l":"Bootstrap"
+                }
+            ]
+        }
+    ]
+}
